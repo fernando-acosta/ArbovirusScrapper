@@ -1,0 +1,14 @@
+{
+  "fecha_generacion": "2026-10-23T15:13:53",
+  "rango_inclusivo": {
+    "inicio": "2023-02-01",
+    "fin": "2026-10-31"
+  },
+  "pdfs_en_carpeta": 521,
+  "pdfs_fuera_del_rango": 254,
+  "pdfs_sin_fecha_identificable": 180,
+  "pdfs_sin_tabla3_legible": 2,
+  "filas_extraidas": 5293,
+  "errores_registrados": 182,
+  "nota": "La fecha usada es la fecha de emisión impresa en el informe. Los PDF sin texto legible pueden requerir OCR y se registran en errores_extraccion.csv."
+}
